@@ -34,8 +34,8 @@ Features
 - Google Maps integration
 
 Tech Stack
-Frontend: React.js, Tailwind CSS
-Routing: react-router-dom
-State Management: Context API
-Form Handling: React Hook Form or similar
-Performance Optimization: Lazy loading, code splitting
+- Frontend: React.js, Tailwind CSS
+- Routing: react-router-dom
+- State Management: Context API
+- Form Handling: React Hook Form or similar
+- Performance Optimization: Lazy loading, code splitting
