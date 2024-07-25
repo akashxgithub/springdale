@@ -1,6 +1,6 @@
-School Website Project -Springdale
-Objective
-The goal is to evaluate design and development skills, understanding of React.js, and ability to follow specific requirements and guidelines. The task is to create a school website showcasing proficiency in frontend development technologies.
+School Website Project - Springdale
+- Objective
+- The goal is to evaluate design and development skills, understanding of React.js, and ability to follow specific requirements and guidelines. The task is to create a school website showcasing proficiency in frontend development technologies.
 
 Features
 1. Home Page
